@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Flow+Circular&family=Nunito&family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+* {
+    margin: 0;
+    background-color: rgba(32,45,58,1);
+    /* cor disponível no site gradient hunt */
+    color: #f5f3f4;
+    font-family: 'Nunito', sans-serif;
+    
+}
+
+img {
+    width: 15%;
+    border-radius: 50%;
+    margin: 0px 10px 10px 0;
+}
+
+h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+}
+
+p {
+    width: 50%;
+    text-align: justify;
+}
+
+
